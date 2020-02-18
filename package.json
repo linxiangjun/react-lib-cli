@@ -1,17 +1,17 @@
 {
-  "name": "react-library-cli",
+  "name": "react-lib-cli",
   "version": "1.0.0",
   "description": "A react popular ecosystem libraries manager",
   "main": "index.js",
   "scripts": {
-    "star": "npm star react-library-cli"
+    "star": "npm star react-lib-cli"
   },
   "bin": {
     "rl": "./cli.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/linxiangjun/react-library-cli.git"
+    "url": "git+https://github.com/linxiangjun/react-lib-cli.git"
   },
   "keywords": [
     "cli",
@@ -20,9 +20,9 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/linxiangjun/react-library-cli/issues"
+    "url": "https://github.com/linxiangjun/react-lib-cli/issues"
   },
-  "homepage": "https://github.com/linxiangjun/react-library-cli#readme",
+  "homepage": "https://github.com/linxiangjun/react-lib-cli#readme",
   "dependencies": {
     "chalk": "^3.0.0",
     "commander": "^4.1.1"
