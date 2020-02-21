@@ -5,5 +5,5 @@ A react popular ecosystem libraries manager
 ## Install
 
 ```bash
-npm install react-library-cli
+npm install -g react-library-cli
 ```

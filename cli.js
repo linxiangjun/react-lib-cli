@@ -5,6 +5,7 @@ const execSync = require("child_process").execSync;
 const chalk = require("chalk");
 const inquirer = require("inquirer");
 const symbols = require("log-symbols");
+const ora = require("ora");
 
 const library = require("./constant");
 const PKG = require("./package.json");
@@ -62,11 +63,15 @@ function onLibrary() {
           const { libraryList, dev } = answers;
           installList = "";
 
+          const spinner = ora("正在下载库...");
+          spinner.start();
+
           libraryList.split(" ").forEach(function(index) {
             installList += `${librarys[index]} `;
           });
 
           onUse(installList, dev);
+          spinner.succeed();
         });
     });
 }
