@@ -1,4 +1,4 @@
-# react-library-cli
+# react-lib-cli
 
 A react popular ecosystem libraries manager.
 
