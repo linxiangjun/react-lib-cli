@@ -10,14 +10,33 @@ A react popular ecosystem libraries manager.
 
 **utility**
 
-| name        | repo                                             | description                                                                       |
-| ----------- | ------------------------------------------------ | --------------------------------------------------------------------------------- |
-| lodash      | [🔗](https://github.com/lodash/lodash)           | A modern JavaScript utility library delivering modularity, performance, & extras. |
-| memoize-one | [🔗](https://github.com/alexreardon/memoize-one) | A memoization library which only remembers the latest invocation.                 |
-| moment      | [🔗](https://github.com/moment/moment)           | Parse, validate, manipulate, and display dates in javascript.                     |
-| rxjs        | [🔗](https://github.com/ReactiveX/rxjs)          | A reactive programming library for JavaScript.                                    |
-| reselect    | [🔗](https://github.com/reduxjs/reselect)        | Selector library for Redux.                                                       |
-| umi-request | [🔗](https://github.com/umijs/umi-request)       | A request tool based on fetch.                                                    |
+| name        | repo                                               | description                                                                                    |
+| ----------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| lodash      | [🔗](https://github.com/lodash/lodash)             | A modern JavaScript utility library delivering modularity, performance, & extras.              |
+| memoize-one | [🔗](https://github.com/alexreardon/memoize-one)   | A memoization library which only remembers the latest invocation.                              |
+| moment      | [🔗](https://github.com/moment/moment)             | Parse, validate, manipulate, and display dates in javascript.                                  |
+| rxjs        | [🔗](https://github.com/ReactiveX/rxjs)            | A reactive programming library for JavaScript.                                                 |
+| reselect    | [🔗](https://github.com/reduxjs/reselect)          | Selector library for Redux.                                                                    |
+| umi-request | [🔗](https://github.com/umijs/umi-request)         | A request tool based on fetch.                                                                 |
+| immutable   | [🔗](https://github.com/immutable-js/immutable-js) | Immutable persistent data collections for Javascript which increase efficiency and simplicity. |
+| classnames  | [🔗](https://github.com/JedWatson/classnames)      | A simple javascript utility for conditionally joining classNames together.                     |
+
+**router**
+
+| name                   | repo                                                     | description                          |
+| ---------------------- | -------------------------------------------------------- | ------------------------------------ |
+| react-router           | [🔗](https://github.com/ReactTraining/react-router)      | Declarative routing for React.       |
+| connected-react-router | [🔗](https://github.com/supasate/connected-react-router) | A Redux binding for React Router v4. |
+
+**state management**
+
+| name        | repo                                           | description                                                 |
+| ----------- | ---------------------------------------------- | ----------------------------------------------------------- |
+| redux       | [🔗](https://github.com/reduxjs/redux)         | Predictable state container for JavaScript apps.            |
+| react-redux | [🔗](https://github.com/reduxjs/react-redux)   | Official React bindings for Redux.                          |
+| redux-saga  | [🔗](https://github.com/redux-saga/redux-saga) | An alternative side effect model for Redux apps.            |
+| dva         | [🔗](https://github.com/dvajs/dva)             | React and redux based, lightweight and elm-style framework. |
+| mobx        | [🔗](https://github.com/mobxjs/mobx)           | Simple, scalable state management.                          |
 
 **style**
 

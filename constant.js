@@ -17,7 +17,7 @@ const router = {
 const state_management = {
   1: "redux",
   2: "react-redux",
-  3: "react-saga",
+  3: "redux-saga",
   4: "dva",
   5: "mobx"
 };
