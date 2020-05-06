@@ -20,6 +20,7 @@ A react popular ecosystem libraries manager.
 | umi-request | [🔗](https://github.com/umijs/umi-request)         | A request tool based on fetch.                                                                 |
 | immutable   | [🔗](https://github.com/immutable-js/immutable-js) | Immutable persistent data collections for Javascript which increase efficiency and simplicity. |
 | classnames  | [🔗](https://github.com/JedWatson/classnames)      | A simple javascript utility for conditionally joining classNames together.                     |
+| prop-types  | [🔗](https://github.com/facebook/prop-types)       | Runtime type checking for React props and similar objects.                                     |
 
 **router**
 
